@@ -1,0 +1,1 @@
+O Git Bash é um temrinal extendido para otimizar o uso do GIT. 
